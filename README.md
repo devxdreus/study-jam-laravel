@@ -93,18 +93,7 @@ Selamat datang di project Study Jam Laravel! Dalam study jam ini, kita akan bela
 -   `routes/` - Berisi file routing aplikasi
 -   `resources/` - Berisi view dan aset front-end
 
-## Kontribusi
-
-Kami mengundang Anda untuk berkontribusi dalam project ini! Jika Anda menemukan masalah atau memiliki ide untuk perbaikan, silakan buat issue atau pull request.
-
-## Lisensi
-
-project ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
-## Penulis
-
-project ini dibuat oleh **Nama Anda** sebagai bagian dari kegiatan **Dicoding dan GDSC ULM**.
-
 ---
 
+project ini dibuat oleh **M. Andri Firdaus** sebagai bagian dari kegiatan **Dicoding dan GDSC ULM**.
 Terima kasih telah bergabung dalam Study Jam Laravel ini. Selamat belajar dan semoga bermanfaat!
